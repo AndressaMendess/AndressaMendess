@@ -1,5 +1,5 @@
 ### - 👋 Olá, meu nome é Andressa Mendes.
-<p> - 📚 Atualmente estou estudando HTML, CSS e JavaScript. </p>
+<!--<p> - 📚 Atualmente estou estudando HTML, CSS e JavaScript. </p>-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaMendess)](https://github.com/anuraghazra/github-readme-stats)
 
