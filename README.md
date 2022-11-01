@@ -1,8 +1,8 @@
-### - 👋 Olá, meu nome é Andressa Mendes.
+<h3> - 👋 Olá, meu nome é Andressa Mendes. </h3>
 <p> - 📚 Sou Desenvolvedora Front-End e Designer de Experiência do Usuário e Interfaces. <br>
 Sempre gostei de áreas voltadas para o visual e que mexem com a criatividade. Ser Designer permite resolver problemas e ao mesmo tempo explorar essa criatividade tirando as ideias do papel e transformando-as em telas, soluções e experiências agradáveis para o usuário, ser Desenvolvedora Front-End funciona como um complemento, pois também me permite ter ideias e colocá-las em prática desenvolvendo-as de forma técnica e acessível. </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressamendess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andressamendess&layout=compact&bg_color=141321&text_color=ffffff&title_color=D83A7C)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> . <img  height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> . <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> . <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
