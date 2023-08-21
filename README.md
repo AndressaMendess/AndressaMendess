@@ -1,9 +1,9 @@
 
 # 👋 Olá, meu nome é Andressa Mendes
 
-Eu sou UX Designer e Desenvolvedora Front-End. Sempre gostei de áreas voltadas para o visual e que mexem com a criatividade. 
-Ser Designer me permite utilizar a criatividade para solucionar problemas trazendo soluções que possam ajudar a vida das pessoas no dia a dia.
-Me interessei pela área de UX Design quando estava atuando no Design Gráfico e percebi que o UX Design tem um pé na programação, então por que não atuar nessas duas áreas que eu me apaixonei?
+Minha paixão pelo visual e a criatividade me guiaram em direção ao mundo do design. O design é uma ferramenta poderosa que me permite resolver problemas de forma inovadora, transformando conceitos em interfaces atraentes e experiências fluidas para os usuários. Minha jornada como Desenvolvedora Front-End complementa essa visão, permitindo concretizar ideias com habilidades técnicas e acessíveis.
+
+Meu papel como Designer não se limita apenas a criar algo bonito, mas sim a oferecer soluções que impactam positivamente a vida das pessoas. Nas horas vagas, também sou musicista e adoro fazer um som.
 
 
 ### **Onde me encontrar:**
