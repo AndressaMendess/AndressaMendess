@@ -12,7 +12,7 @@ Meu papel como Designer não se limita apenas a criar algo bonito, mas sim a ofe
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff&color:FFF)](mailto:andressasilvam25@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFf&color:FFF)](https://www.linkedin.com/in/andressa-mendes-56ba37249/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFf&color:FFF)](https://www.instagram.com/mendxsui/)
-[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=FFf&Color=FFF)](https://andressamendes.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=FFf&Color=FFF)](https://andressamendes.framer.website/)
 [![Spotify Plalist](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=fff&Color=000)](https://open.spotify.com/playlist/5lCzE2kG0BHoBbuOJPpHK2)
 
 ### **Github status**
